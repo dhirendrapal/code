@@ -22,4 +22,7 @@ print_r($replace);
 echo "</pre>";
 
 echo "Welcome Git!!";
+
+echo "This is new line\n ghgjghjhgj";
+
 ?>
