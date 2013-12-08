@@ -20,4 +20,6 @@ echo "<pre>";
 print_r($search);
 print_r($replace);
 echo "</pre>";
+
+echo "Welcome Git!!";
 ?>
